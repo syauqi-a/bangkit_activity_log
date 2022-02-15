@@ -17,3 +17,4 @@ This repo contains my activities while studying at Bangkit 2022.
 > - Introduction and installing python
 > - Python code writing style guide based on PEP 8
 > - Python data type
+> - Input/Output and Operation in Python
