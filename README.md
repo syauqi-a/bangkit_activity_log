@@ -7,8 +7,8 @@ This repo contains my activities while studying at Bangkit 2022.
 
 ### Abbreviation
 - **SPS**: Self-paced sessions.
-<br>
 
+### Progress
 > **Feb 14, 2022**\
 > Attend to Opening Session and Techinical Briefing Session
 
