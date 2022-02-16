@@ -18,3 +18,7 @@ This repo contains my activities while studying at Bangkit 2022.
 > - Python code writing style guide based on PEP 8
 > - Python data type
 > - Input/Output and Operation in Python
+
+> **Feb 16, 2022**\
+> SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
+> - Style Guide on Python
