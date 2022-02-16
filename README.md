@@ -22,3 +22,7 @@ This repo contains my activities while studying at Bangkit 2022.
 > **Feb 16, 2022**\
 > SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
 > - Style Guide on Python
+> - Control flow
+> - Error handling
+> - Function and method
+> - Python OOP
