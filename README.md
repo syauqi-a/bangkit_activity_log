@@ -26,3 +26,11 @@ This repo contains my activities while studying at Bangkit 2022.
 > - Error handling
 > - Function and method
 > - Python OOP
+
+> **Feb 17, 2022**\
+> SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
+> - Unit testing on python
+> - Popular libraries on python
+> - Take the final exam
+> 
+> [*Certificate*](https://www.dicoding.com/certificates/N9ZOEKYO0XG5)
