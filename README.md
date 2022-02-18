@@ -34,3 +34,7 @@ This repo contains my activities while studying at Bangkit 2022.
 > - Take the final exam
 > 
 > [*Certificate*](https://www.dicoding.com/certificates/N9ZOEKYO0XG5)
+
+> **Feb 18, 2022**\
+> SPS: *"Crash Course on Python (Coursera)" by Google*
+> - Read course introduction
