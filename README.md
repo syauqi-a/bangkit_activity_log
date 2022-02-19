@@ -6,41 +6,88 @@ This repo contains my activities while studying at Bangkit 2022.
 © 2022. Khamidah Ahmad Syauqi\
 [GitHub](https://github.com/syauqi-a/) | [LinkedIn](https://www.linkedin.com/in/kahmadsyauqi/)
 
-### Abbreviation
+## Abbreviation
 - **SPS**: Self-paced sessions.
 
-### Progress
-> **Feb 14, 2022**\
-> Attend to Opening Session and Techinical Briefing Session
+## Progress
 
-> **Feb 15, 2022**\
-> SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
-> - Introduction and installing python
-> - Python code writing style guide based on PEP 8
-> - Python data type
-> - Input/Output and Operation in Python
+<details>
 
-> **Feb 16, 2022**\
-> SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
-> - Style Guide on Python
-> - Control flow
-> - Error handling
-> - Function and method
-> - Python OOP
+  <summary><b>February 2022</b></summary>
+  <br>
 
-> **Feb 17, 2022**\
-> SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
-> - Unit testing on python
-> - Popular libraries on python
-> - Take the final course exam
-> 
-> [*Course certificate* "**Memulai Pemrograman Dengan Python**" *by Dicoding*](https://www.dicoding.com/certificates/N9ZOEKYO0XG5)
+  > <details>
+  >   <summary>
+  >   <b>14<sup>th</sup></b>
+  >   <br/>
+  >   Attend to Opening Session and Techinical Briefing Session
+  >   </summary>
+  > </details>
 
-> **Feb 18, 2022**\
-> SPS: *"Crash Course on Python (Coursera)" by Google*
-> - Course introduction
+  > <details>
+  >   <summary>
+  >   <b>15<sup>th</sup></b>
+  >   <br/>
+  >   SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >   </summary>
+  >   <ul>
+  >     <li>Introduction and installing python</li>
+  >     <li>Python code writing style guide based on PEP 8</li>
+  >     <li>Python data type</li>
+  >     <li>Input/Output and Operation in Python</li>
+  >   </ul>
+  > </details>
 
-> **Feb 19, 2022**\
-> SPS: *"Crash Course on Python (Coursera)" by Google*
-> - Introduction to Programming
-> - Introduction to Python
+  > <details>
+  >   <summary>
+  >   <b>16<sup>th</sup></b>
+  >   <br/>
+  >   SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >   </summary>
+  >   <ul>
+  >     <li>Style Guide on Python</li>
+  >     <li>Control flow</li>
+  >     <li>Error handling</li>
+  >     <li>Function and method</li>
+  >     <li>Python OOP</li>
+  >   </ul>
+  > </details>
+
+  > <details>
+  >   <summary>
+  >   <b>17<sup>th</sup></b>
+  >   <br/>
+  >   SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >   </summary>
+  >   <ul>
+  >     <li>Unit testing on python</li>
+  >     <li>Popular libraries on python</li>
+  >     <li>Take the final course exam</li>
+  >   </ul>
+  >   <a href="https://www.dicoding.com/certificates/N9ZOEKYO0XG5"><i>Course certificate</i> "<b>Memulai Pemrograman Dengan Python</b>" <i>by Dicoding</i></a>
+  > </details>
+
+  > <details>
+  >   <summary>
+  >   <b>18<sup>th</sup></b>
+  >   <br/>
+  >   SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <ul>
+  >     <li>Course introduction</li>
+  >   </ul>
+  > </details>
+
+  > <details>
+  >   <summary>
+  >   <b>19<sup>th</sup></b>
+  >   <br/>
+  >   SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <ul>
+  >     <li>Introduction to Programming</li>
+  >     <li>Introduction to Python</li>
+  >   </ul>
+  > </details>
+
+</details>
