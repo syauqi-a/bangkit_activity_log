@@ -3,7 +3,8 @@ This repo contains my activities while studying at Bangkit 2022.
 
 > ***Bangkit** is a unique career readiness program led by Google and delivered support from industry experts from GoTo, Traveloka, and Deeptech Foundation. Affiliated with the Kampus Merdeka program, Bangkit will entitle successful participants among you to earn up to 20 university credits (SKS) by the end of the program. The intensive training consists of graded and verifiable course assignments, a final project, and participatory, synchronous online, interactive and collaborative workshops. The program provides you with first-hand exposure to real-world practitioners and prepares you with relevant skills for a successful career in leading tech companies [<sup>1</sup>](https://docs.google.com/document/d/1tPmbupsdIWgxGytBSwH3ZUmCfdIaSsBq8ZCmL47l_d0/preview?pru=AAABfxotgks*sK9Lo88cZxfT4kPNbscbYw#heading=h.ajhjo6miqvhw).*
 
-© 2022. [CuBe](https://github.com/syauqi-a/)
+© 2022. Khamidah Ahmad Syauqi\
+[GitHub](https://github.com/syauqi-a/) | [LinkedIn](https://www.linkedin.com/in/kahmadsyauqi/)
 
 ### Abbreviation
 - **SPS**: Self-paced sessions.
@@ -31,10 +32,15 @@ This repo contains my activities while studying at Bangkit 2022.
 > SPS: *"Memulai Pemrograman Dengan Python" by Dicoding*
 > - Unit testing on python
 > - Popular libraries on python
-> - Take the final exam
+> - Take the final course exam
 > 
-> [*Certificate*](https://www.dicoding.com/certificates/N9ZOEKYO0XG5)
+> [*Course certificate* "**Memulai Pemrograman Dengan Python**" *by Dicoding*](https://www.dicoding.com/certificates/N9ZOEKYO0XG5)
 
 > **Feb 18, 2022**\
 > SPS: *"Crash Course on Python (Coursera)" by Google*
-> - Read course introduction
+> - Course introduction
+
+> **Feb 19, 2022**\
+> SPS: *"Crash Course on Python (Coursera)" by Google*
+> - Introduction to Programming
+> - Introduction to Python
