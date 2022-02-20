@@ -13,22 +13,19 @@ This repo contains my activities while studying at Bangkit 2022.
 
 <details>
 
-  <summary><b>February 2022</b></summary>
+  <summary>
+    <b>February 2022</b>
+  </summary>
   <br>
 
-  > <details>
-  >   <summary>
-  >   <b>14<sup>th</sup></b>
-  >   <br/>
-  >   Attend to Opening Session and Techinical Briefing Session
-  >   </summary>
-  > </details>
+  > <h4>14<sup>th</sup></h4>
+  >
+  > Attend to Opening Session and Techinical Briefing Session
 
+  > <h4>15<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >   <b>15<sup>th</sup></b>
-  >   <br/>
-  >   SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
   >   </summary>
   >   <ul>
   >     <li>Introduction and installing python</li>
@@ -38,11 +35,10 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   > </details>
 
+  > <h4>16<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >   <b>16<sup>th</sup></b>
-  >   <br/>
-  >   SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
   >   </summary>
   >   <ul>
   >     <li>Style Guide on Python</li>
@@ -53,36 +49,37 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   > </details>
 
+  > <h4>17<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >   <b>17<sup>th</sup></b>
-  >   <br/>
-  >   SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
   >   </summary>
   >   <ul>
   >     <li>Unit testing on python</li>
   >     <li>Popular libraries on python</li>
-  >     <li>Take the final course exam</li>
   >   </ul>
+  >  </details>
+  >  <details>
+  >   <summary>
+  >     Take the final course exam
+  >   </summary>
   >   <a href="https://www.dicoding.com/certificates/N9ZOEKYO0XG5"><i>Course certificate</i> "<b>Memulai Pemrograman Dengan Python</b>" <i>by Dicoding</i></a>
   > </details>
 
+  > <h4>18<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >   <b>18<sup>th</sup></b>
-  >   <br/>
-  >   SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <ul>
   >     <li>Course introduction</li>
   >   </ul>
   > </details>
 
+  > <h4>19<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >   <b>19<sup>th</sup></b>
-  >   <br/>
-  >   SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <ul>
   >     <li>Introduction to Programming</li>
