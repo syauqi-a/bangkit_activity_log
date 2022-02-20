@@ -87,4 +87,14 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   > </details>
 
+  > <h4>20<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <ul>
+  >     <li>Introduction to Python (continue)</li>
+  >   </ul>
+  > </details>
+
 </details>
