@@ -117,7 +117,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Week 2 module:
   >   </summary>
   >   <ul>
-  >     <li></li>
+  >     <li>Expressions and Variables</li>
   >   </ul>
   > </details>
 
