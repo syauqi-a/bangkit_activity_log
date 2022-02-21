@@ -118,6 +118,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </summary>
   >   <ul>
   >     <li>Expressions and Variables</li>
+  >     <li>Functions</li>
   >   </ul>
   > </details>
 
