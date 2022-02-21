@@ -8,6 +8,7 @@ This repo contains my activities while studying at Bangkit 2022.
 
 ## Abbreviation
 - **SPS**: Self-paced sessions.
+- **ILT**: Instructor-led training.
 
 ## Progress
 
@@ -122,11 +123,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Conditionals</li>
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
-  >   Week 2 module:
+  >   Week 3 module:
   >   </summary>
   >   <ul>
   >     <li>While Loops</li>
   >   </ul>
+  > </details>
+  > <details>
+  >   <summary>
+  >     ILT: Python IT Automation - Intro to Python, Regex, and Bash Scripting
+  >   </summary>
+  >   Instructor: Hidayaturrahman.
   > </details>
 
 </details>
