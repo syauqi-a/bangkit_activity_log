@@ -8,6 +8,7 @@ This repo contains my activities while studying at Bangkit 2022.
 
 ## Abbreviation
 - **SPS**: Self-paced sessions.
+- **ILT**: Instructor-led training.
 
 ## Progress
 
@@ -71,6 +72,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <summary>
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
+  >   <br/>
+  >   Week 1 module:
   >   <ul>
   >     <li>Course introduction</li>
   >   </ul>
@@ -81,6 +84,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <summary>
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
+  >   <br/>
+  >   Week 1 module:
   >   <ul>
   >     <li>Introduction to Programming</li>
   >     <li>Introduction to Python</li>
@@ -92,9 +97,43 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <summary>
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
+  >   <br/>
+  >   Week 1 module:
   >   <ul>
   >     <li>Introduction to Python (continue)</li>
   >   </ul>
+  > </details>
+
+  > <h4>21<sup>st</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   Week 1 module:
+  >   <ul>
+  >     <li>Hello world, make first Python script</li>
+  >     <li>Modul review (+ take quiz)</li>
+  >   </ul>
+  >   Week 2 module:
+  >   </summary>
+  >   <ul>
+  >     <li>Expressions and Variables</li>
+  >     <li>Functions</li>
+  >     <li>Conditionals</li>
+  >     <li>Modul review (+ take quiz)</li>
+  >   </ul>
+  >   Week 3 module:
+  >   </summary>
+  >   <ul>
+  >     <li>While Loops</li>
+  >   </ul>
+  > </details>
+  > <details>
+  >   <summary>
+  >     ILT: Python IT Automation - Intro to Python, Regex, and Bash Scripting
+  >   </summary>
+  >   Instructor: Hidayaturrahman.
   > </details>
 
 </details>
