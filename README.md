@@ -122,6 +122,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Conditionals</li>
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
+  >   Week 2 module:
+  >   </summary>
+  >   <ul>
+  >     <li>While Loops</li>
+  >   </ul>
   > </details>
 
 </details>
