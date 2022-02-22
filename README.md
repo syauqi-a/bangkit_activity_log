@@ -148,7 +148,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   >   Week 4 module:
   >   <ul>
-  >     <li>String</li>
+  >     <li>Strings</li>
+  >     <li>Lists and tuples</li>
   >   </ul>
   > </details>
 
