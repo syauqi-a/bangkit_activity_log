@@ -7,8 +7,8 @@ This repo contains my activities while studying at Bangkit 2022.
 [GitHub](https://github.com/syauqi-a/) | [LinkedIn](https://www.linkedin.com/in/kahmadsyauqi/)
 
 ## Abbreviation
-- **SPS**: Self-paced sessions.
 - **ILT**: Instructor-led training.
+- **SPS**: Self-paced sessions.
 
 ## Progress
 
