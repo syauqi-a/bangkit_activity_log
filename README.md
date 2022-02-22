@@ -153,6 +153,10 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Dictionaries</li>
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
+  >   Week 5 module:
+  >   <ul>
+  >     <li>Object-oriented Programming</li>
+  >   </ul>
   > </details>
 
 </details>
