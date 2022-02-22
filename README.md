@@ -150,6 +150,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <ul>
   >     <li>Strings</li>
   >     <li>Lists and tuples</li>
+  >     <li>Dictionaries</li>
+  >     <li>Modul review (+ take quiz)</li>
   >   </ul>
   > </details>
 
