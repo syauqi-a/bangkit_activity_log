@@ -7,8 +7,8 @@ This repo contains my activities while studying at Bangkit 2022.
 [GitHub](https://github.com/syauqi-a/) | [LinkedIn](https://www.linkedin.com/in/kahmadsyauqi/)
 
 ## Abbreviation
-- **SPS**: Self-paced sessions.
 - **ILT**: Instructor-led training.
+- **SPS**: Self-paced sessions.
 
 ## Progress
 
@@ -116,7 +116,6 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
   >   Week 2 module:
-  >   </summary>
   >   <ul>
   >     <li>Expressions and Variables</li>
   >     <li>Functions</li>
@@ -124,9 +123,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
   >   Week 3 module:
-  >   </summary>
   >   <ul>
-  >     <li>While Loops</li>
+  >     <li>While loops</li>
   >   </ul>
   > </details>
   > <details>
@@ -134,6 +132,34 @@ This repo contains my activities while studying at Bangkit 2022.
   >     ILT: Python IT Automation - Intro to Python, Regex, and Bash Scripting
   >   </summary>
   >   Instructor: Hidayaturrahman.
+  > </details>
+
+  > <h4>22<sup>nd</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   Week 3 module:
+  >   <ul>
+  >     <li>For loops</li>
+  >     <li>Recursion</li>
+  >     <li>Modul review (+ take quiz)</li>
+  >   </ul>
+  >   Week 4 module:
+  >   <ul>
+  >     <li>Strings</li>
+  >     <li>Lists and tuples</li>
+  >     <li>Dictionaries</li>
+  >     <li>Modul review (+ take quiz)</li>
+  >   </ul>
+  >   Week 5 module:
+  >   <ul>
+  >     <li>Object-oriented Programming</li>
+  >     <li>Classes and Methods</li>
+  >     <li>Code Reuse: Inheritance and Composition between classes</li>
+  >     <li>Module Review</li>
+  >   </ul>
   > </details>
 
 </details>
