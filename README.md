@@ -126,7 +126,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Week 3 module:
   >   </summary>
   >   <ul>
-  >     <li>While Loops</li>
+  >     <li>While loops</li>
   >   </ul>
   > </details>
   > <details>
@@ -134,6 +134,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >     ILT: Python IT Automation - Intro to Python, Regex, and Bash Scripting
   >   </summary>
   >   Instructor: Hidayaturrahman.
+  > </details>
+
+  > <h4>22<sup>nd</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   Week 3 module:
+  >   <ul>
+  >     <li>For loops</li>
+  >   </ul>
   > </details>
 
 </details>
