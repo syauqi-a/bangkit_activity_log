@@ -156,6 +156,9 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Week 5 module:
   >   <ul>
   >     <li>Object-oriented Programming</li>
+  >     <li>Classes and Methods</li>
+  >     <li>Code Reuse: Inheritance and Composition between classes</li>
+  >     <li>Module Review</li>
   >   </ul>
   > </details>
 
