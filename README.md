@@ -116,7 +116,6 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
   >   Week 2 module:
-  >   </summary>
   >   <ul>
   >     <li>Expressions and Variables</li>
   >     <li>Functions</li>
@@ -124,7 +123,6 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Modul review (+ take quiz)</li>
   >   </ul>
   >   Week 3 module:
-  >   </summary>
   >   <ul>
   >     <li>While loops</li>
   >   </ul>
@@ -147,6 +145,10 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>For loops</li>
   >     <li>Recursion</li>
   >     <li>Modul review (+ take quiz)</li>
+  >   </ul>
+  >   Week 4 module:
+  >   <ul>
+  >     <li>String</li>
   >   </ul>
   > </details>
 
