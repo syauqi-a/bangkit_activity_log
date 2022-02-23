@@ -73,10 +73,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 1 module:
-  >   <ul>
-  >     <li>Course introduction</li>
-  >   </ul>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course introduction</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
   > <h4>19<sup>th</sup></h4>
@@ -85,11 +87,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 1 module:
-  >   <ul>
-  >     <li>Introduction to Programming</li>
-  >     <li>Introduction to Python</li>
-  >   </ul>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Introduction to Programming</li>
+  >       <li>Introduction to Python</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
   > <h4>20<sup>th</sup></h4>
@@ -98,10 +102,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 1 module:
-  >   <ul>
-  >     <li>Introduction to Python (continue)</li>
-  >   </ul>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Introduction to Python (continue)</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
   > <h4>21<sup>st</sup></h4>
@@ -110,22 +116,28 @@ This repo contains my activities while studying at Bangkit 2022.
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 1 module:
-  >   <ul>
-  >     <li>Hello world, make first Python script</li>
-  >     <li>Modul review (+ take quiz)</li>
-  >   </ul>
-  >   Week 2 module:
-  >   <ul>
-  >     <li>Expressions and Variables</li>
-  >     <li>Functions</li>
-  >     <li>Conditionals</li>
-  >     <li>Modul review (+ take quiz)</li>
-  >   </ul>
-  >   Week 3 module:
-  >   <ul>
-  >     <li>While loops</li>
-  >   </ul>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Hello world, make first Python script</li>
+  >       <li>Modul review (+ take quiz)</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Expressions and Variables</li>
+  >       <li>Functions</li>
+  >       <li>Conditionals</li>
+  >       <li>Modul review (+ take quiz)</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>While loops</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
   > <details>
   >   <summary>
@@ -140,26 +152,32 @@ This repo contains my activities while studying at Bangkit 2022.
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 3 module:
-  >   <ul>
-  >     <li>For loops</li>
-  >     <li>Recursion</li>
-  >     <li>Modul review (+ take quiz)</li>
-  >   </ul>
-  >   Week 4 module:
-  >   <ul>
-  >     <li>Strings</li>
-  >     <li>Lists and tuples</li>
-  >     <li>Dictionaries</li>
-  >     <li>Modul review (+ take quiz)</li>
-  >   </ul>
-  >   Week 5 module:
-  >   <ul>
-  >     <li>Object-oriented Programming</li>
-  >     <li>Classes and Methods</li>
-  >     <li>Code Reuse: Inheritance and Composition between classes</li>
-  >     <li>Module Review</li>
-  >   </ul>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>For loops</li>
+  >       <li>Recursion</li>
+  >       <li>Modul review (+ take quiz)</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Strings</li>
+  >       <li>Lists and tuples</li>
+  >       <li>Dictionaries</li>
+  >       <li>Modul review (+ take quiz)</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 5 module:
+  >     <ul>
+  >       <li>Object-oriented Programming</li>
+  >       <li>Classes and Methods</li>
+  >       <li>Code Reuse: Inheritance and Composition between classes</li>
+  >       <li>Module Review</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
   > <h4>23<sup>rd</sup></h4>
@@ -168,37 +186,43 @@ This repo contains my activities while studying at Bangkit 2022.
   >     SPS: "Crash Course on Python" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 6 module:
-  >   <ul>
-  >     <li>Writing a Script from the Ground Up</li>
-  >     <li>Final Project</li>
-  >     <li>Programming Assignment (Final Project: WordCloud)</li>
-  >   </ul>
-  >   <a href="https://www.coursera.org/account/accomplishments/certificate/NR6X7QCNSF93"><i>Course certificate "Crash Course on Python" by Google (Coursera)</i></a>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Writing a Script from the Ground Up</li>
+  >       <li>Final Project</li>
+  >       <li>Programming Assignment (Final Project: WordCloud)</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/NR6X7QCNSF93"><i>Course certificate "Crash Course on Python" by Google (Coursera)</i></a>
+  >   </blockquote>
   > </details>
   > <details>
   >   <summary>
   >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
   >   </summary>
   >   <br/>
-  >   Week 1 module:
-  >   <ul>
-  >     <li>Course Introduction</li>
-  >     <li>Getting Ready for Python</li>
-  >     <li>Running Python Locally</li>
-  >     <li>Automating Tasks Through Programming</li>
-  >     <li>Introduction to Qwiklabs</li>
-  >     <li>Module Review</li>
-  >     <li>Try Qwiklabs and do the assessment</li>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course Introduction</li>
+  >       <li>Getting Ready for Python</li>
+  >       <li>Running Python Locally</li>
+  >       <li>Automating Tasks Through Programming</li>
+  >       <li>Introduction to Qwiklabs</li>
+  >       <li>Module Review</li>
+  >       <li>Try Qwiklabs and do the assessment</li>
   >   </ul>
-  >   Week 2 module:
-  >   <ul>
-  >     <li>Reading and Writing Files</li>
-  >     <li>Managing Files and Directories</li>
-  >     <li>Reading and Writing CSV Files</li>
-  >     <li>Module Review</li>
-  >     <li>Qwiklabs Assessment: Handling Files</li>
-  >   </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Reading and Writing Files</li>
+  >       <li>Managing Files and Directories</li>
+  >       <li>Reading and Writing CSV Files</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Handling Files</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
