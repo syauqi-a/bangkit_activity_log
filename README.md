@@ -195,7 +195,9 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <ul>
   >     <li>Reading and Writing Files</li>
   >     <li>Managing Files and Directories</li>
-  >     <li></li>
+  >     <li>Reading and Writing CSV Files</li>
+  >     <li>Module Review</li>
+  >     <li>Qwiklabs Assessment: Handling Files</li>
   >   </ul>
   > </details>
 
