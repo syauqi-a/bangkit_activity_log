@@ -191,6 +191,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Module Review</li>
   >     <li>Try Qwiklabs and do the assessment</li>
   >   </ul>
+  >   Week 2 module:
+  >   <ul>
+  >     <li>Reading and Writing Files</li>
+  >     <li></li>
+  >   </ul>
   > </details>
 
 </details>
