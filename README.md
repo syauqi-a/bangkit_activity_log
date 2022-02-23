@@ -176,5 +176,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   >   <a href="https://www.coursera.org/account/accomplishments/certificate/NR6X7QCNSF93"><i>Course certificate "Crash Course on Python" by Google (Coursera)</i></a>
   > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   Week 1 module:
+  >   <ul>
+  >     <li>Course Introduction</li>
+  >     <li>Getting Ready for Python</li>
+  >     <li></li>
+  >   </ul>
+  > </details>
 
 </details>
