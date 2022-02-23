@@ -194,6 +194,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Week 2 module:
   >   <ul>
   >     <li>Reading and Writing Files</li>
+  >     <li>Managing Files and Directories</li>
   >     <li></li>
   >   </ul>
   > </details>
