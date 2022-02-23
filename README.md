@@ -162,4 +162,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   > </details>
 
+  > <h4>23<sup>rd</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   Week 6 module:
+  >   <ul>
+  >     <li>Writing a Script from the Ground Up</li>
+  >     <li>Final Project</li>
+  >     <li>Programming Assignment (Final Project: WordCloud)</li>
+  >   </ul>
+  >   <a href="https://www.coursera.org/account/accomplishments/certificate/NR6X7QCNSF93"><i>Course certificate "Crash Course on Python" by Google (Coursera)</i></a>
+  > </details>
+
 </details>
