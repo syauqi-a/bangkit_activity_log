@@ -186,6 +186,9 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <li>Course Introduction</li>
   >     <li>Getting Ready for Python</li>
   >     <li>Running Python Locally</li>
+  >     <li>Automating Tasks Through Programming</li>
+  >     <li>Introduction to Qwiklabs</li>
+  >     <li></li>
   >   </ul>
   > </details>
 
