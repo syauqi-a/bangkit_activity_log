@@ -236,6 +236,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Regular Expressions</li>
   >       <li>Basic Regular Expressions</li>
+  >       <li>Advanced Regular Expressions</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
