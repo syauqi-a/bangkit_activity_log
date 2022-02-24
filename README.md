@@ -225,4 +225,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>24<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Regular Expressions</li>
+  >       <li></li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
