@@ -235,6 +235,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 3 module:
   >     <ul>
   >       <li>Regular Expressions</li>
+  >       <li>Basic Regular Expressions</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
