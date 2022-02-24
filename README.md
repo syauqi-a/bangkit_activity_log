@@ -237,7 +237,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Regular Expressions</li>
   >       <li>Basic Regular Expressions</li>
   >       <li>Advanced Regular Expressions</li>
-  >       <li></li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Working with Regular Expressions</li>
   >     </ul>
   >   </blockquote>
   > </details>
