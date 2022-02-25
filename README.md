@@ -285,6 +285,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 6 module:
   >     <ul>
   >       <li>Interacting with the Command Line Shell</li>
+  >       <li>Bash Scripting</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
