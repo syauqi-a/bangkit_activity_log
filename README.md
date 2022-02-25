@@ -270,6 +270,15 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Working with Log Files</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 5 module:
+  >     <ul>
+  >       <li>Simple Tests</li>
+  >       <li>Unit Tests</li>
+  >       <li>Other Test Concepts</li>
+  >       <li></li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
