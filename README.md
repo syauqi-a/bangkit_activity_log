@@ -245,9 +245,14 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>Data Streams</li>
-  >       <li></li>
   >     </ul>
   >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation
+  >   </summary>
+  >   Lead by Stefanie Chandra
   > </details>
 
 </details>
