@@ -281,6 +281,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Implementing Unit Testing</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Interacting with the Command Line Shell</li>
+  >       <li></li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
