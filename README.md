@@ -255,4 +255,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
+  > <h4>25<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Python Subprocesses</li>
+  >       <li>Processing Log Files</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
