@@ -286,7 +286,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Interacting with the Command Line Shell</li>
   >       <li>Bash Scripting</li>
-  >       <li></li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Editing Files Using Substrings</li>
   >     </ul>
   >   </blockquote>
   > </details>
