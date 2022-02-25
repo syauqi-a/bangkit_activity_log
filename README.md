@@ -276,6 +276,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Simple Tests</li>
   >       <li>Unit Tests</li>
   >       <li>Other Test Concepts</li>
+  >       <li>Errors and Exceptions</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
