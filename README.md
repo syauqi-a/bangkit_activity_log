@@ -277,7 +277,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Unit Tests</li>
   >       <li>Other Test Concepts</li>
   >       <li>Errors and Exceptions</li>
-  >       <li></li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Implementing Unit Testing</li>
   >     </ul>
   >   </blockquote>
   > </details>
