@@ -290,6 +290,15 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Editing Files Using Substrings</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Getting Ready for the Final Project</li>
+  >       <li>Course Wrap-Up</li>
+  >       <li>Final Project (Qwiklabs Assessment: Log Analysis Using Regular Expressions)</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/3AWM83VL2BKJ"><i>Course certificate "Using Python to Interact with the Operating System" by Google (Coursera)</i></a>
+  >   </blockquote>
   > </details>
 
 </details>
