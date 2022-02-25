@@ -266,6 +266,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Python Subprocesses</li>
   >       <li>Processing Log Files</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Working with Log Files</li>
   >     </ul>
   >   </blockquote>
   > </details>
