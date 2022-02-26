@@ -245,8 +245,59 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>Data Streams</li>
-  >       <li></li>
   >     </ul>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
+
+  > <h4>25<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Python Subprocesses</li>
+  >       <li>Processing Log Files</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Working with Log Files</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 5 module:
+  >     <ul>
+  >       <li>Simple Tests</li>
+  >       <li>Unit Tests</li>
+  >       <li>Other Test Concepts</li>
+  >       <li>Errors and Exceptions</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Implementing Unit Testing</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Interacting with the Command Line Shell</li>
+  >       <li>Bash Scripting</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Editing Files Using Substrings</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Getting Ready for the Final Project</li>
+  >       <li>Course Wrap-Up</li>
+  >       <li>Final Project (Qwiklabs Assessment: Log Analysis Using Regular Expressions)</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/3AWM83VL2BKJ"><i>Course certificate "Using Python to Interact with the Operating System" by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
