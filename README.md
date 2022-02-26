@@ -291,7 +291,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     </ul>
   >   </blockquote>
   >   <blockquote>
-  >     Week 6 module:
+  >     Week 7 module:
   >     <ul>
   >       <li>Getting Ready for the Final Project</li>
   >       <li>Course Wrap-Up</li>
