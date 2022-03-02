@@ -345,6 +345,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Merging Branches in Git</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Introduction to GitHub</li>
+  >       <li></li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
