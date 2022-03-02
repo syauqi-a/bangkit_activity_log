@@ -342,7 +342,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Undoing Things</li>
   >       <li>Branching and Merging</li>
   >       <li>Module Review</li>
-  >       <li></li>
+  >       <li>Qwiklabs Assessment: Merging Branches in Git</li>
   >     </ul>
   >   </blockquote>
   > </details>
