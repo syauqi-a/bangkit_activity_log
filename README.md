@@ -340,6 +340,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Advanced Git interaction</li>
   >       <li>Undoing Things</li>
+  >       <li>Branching and Merging</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
