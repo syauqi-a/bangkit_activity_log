@@ -341,6 +341,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Advanced Git interaction</li>
   >       <li>Undoing Things</li>
   >       <li>Branching and Merging</li>
+  >       <li>Module Review</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
