@@ -339,6 +339,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Advanced Git interaction</li>
+  >       <li>Undoing Things</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
