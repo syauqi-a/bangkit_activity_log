@@ -359,6 +359,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>Pull Requests</li>
+  >       <li>Code Reviews</li>
+  >       <li>Managing Projects</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
