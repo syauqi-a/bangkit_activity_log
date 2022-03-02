@@ -302,3 +302,31 @@ This repo contains my activities while studying at Bangkit 2022.
   > </details>
 
 </details>
+
+<details>
+
+  <summary>
+    <b>March 2022</b>
+  </summary>
+  <br>
+
+  > <h4>1<sup>st</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Introduction to Git and GitHub" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course Introduction</li>
+  >       <li>Before Version Control</li>
+  >       <li>Version Control Systems</li>
+  >       <li>Using Git</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Introduction to Git</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+</details>
