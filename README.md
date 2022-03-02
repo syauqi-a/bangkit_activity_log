@@ -329,4 +329,44 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>2<sup>nd</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Introduction to Git and GitHub" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Advanced Git interaction</li>
+  >       <li>Undoing Things</li>
+  >       <li>Branching and Merging</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Merging Branches in Git</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Introduction to GitHub</li>
+  >       <li>Using a Remote Repository</li>
+  >       <li>Solving Conflicts</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Introduction to Github</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Pull Requests</li>
+  >       <li>Code Reviews</li>
+  >       <li>Managing Projects</li>
+  >       <li>Module Review</li>
+  >       <li>Final Project (Qwiklabs Assessment: Pushing Local Commits to Github)</li>
+  >       <li>Course Wrap-Up</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/KCGYQELGZ6VH"><i>Course certificate "Introduction to Git and GitHub" by Google (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+
 </details>
