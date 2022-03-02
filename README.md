@@ -352,6 +352,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Using a Remote Repository</li>
   >       <li>Solving Conflicts</li>
   >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Introduction to Github</li>
   >     </ul>
   >   </blockquote>
   > </details>
