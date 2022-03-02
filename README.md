@@ -361,7 +361,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Pull Requests</li>
   >       <li>Code Reviews</li>
   >       <li>Managing Projects</li>
-  >       <li></li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Pushing Local Commits to Github</li>
   >     </ul>
   >   </blockquote>
   > </details>
