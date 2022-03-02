@@ -350,7 +350,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Introduction to GitHub</li>
   >       <li>Using a Remote Repository</li>
-  >       <li></li>
+  >       <li>Solving Conflicts</li>
+  >       <li>Module Review</li>
   >     </ul>
   >   </blockquote>
   > </details>
