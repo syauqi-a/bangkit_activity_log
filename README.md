@@ -329,4 +329,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>2<sup>nd</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Introduction to Git and GitHub" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Advanced Git interaction</li>
+  >       <li></li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
