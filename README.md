@@ -362,8 +362,10 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Code Reviews</li>
   >       <li>Managing Projects</li>
   >       <li>Module Review</li>
-  >       <li>Qwiklabs Assessment: Pushing Local Commits to Github</li>
+  >       <li>Final Project (Qwiklabs Assessment: Pushing Local Commits to Github)</li>
+  >       <li>Course Wrap-Up</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/KCGYQELGZ6VH"><i>Course certificate "Introduction to Git and GitHub" by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
