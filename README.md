@@ -250,7 +250,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > </details>
   > <details>
   >   <summary>
-  >     Attend the Weekly Consultation
+  >     Attend the Weekly Consultation 1
   >   </summary>
   >   Lead by Stefanie Chandra
   > </details>
@@ -367,6 +367,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >     </ul>
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/KCGYQELGZ6VH"><i>Course certificate "Introduction to Git and GitHub" by Google (Coursera)</i></a>
   >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 2
+  >   </summary>
+  >   Lead by Stefanie Chandra
   > </details>
 
 </details>
