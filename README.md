@@ -8,7 +8,9 @@ This repo contains my activities while studying at Bangkit 2022.
 
 ## Abbreviation
 - **ILT**: Instructor-led training.
+- **GSS**: Guest Speaker Session
 - **SPS**: Self-paced sessions.
+- **SS** : Soft Skill
 
 ## Progress
 
@@ -143,7 +145,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <summary>
   >     ILT: Python IT Automation - Intro to Python, Regex, and Bash Scripting
   >   </summary>
-  >   Instructor: Hidayaturrahman.
+  >   Instructor: Hidayaturrahman
   > </details>
 
   > <h4>22<sup>nd</sup></h4>
@@ -300,6 +302,14 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/3AWM83VL2BKJ"><i>Course certificate "Using Python to Interact with the Operating System" by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     GSS : #1 - How To be a Professional Software Engineer
+  >   </summary>
+  >   Speaker: Puja Pramudya
+  >
+  >   Moderator: Adrianus Yoza Aprilio
+  > </details>
 
 </details>
 
@@ -373,6 +383,22 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Attend the Weekly Consultation 2
   >   </summary>
   >   Lead by Stefanie Chandra
+  > </details>
+
+  > <h4>4<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     GSS : #2 - How to Build a Great Startup
+  >   </summary>
+  >   Speaker: Imanuel Abraham
+  >
+  >   Moderator: Hansel Santoso
+  > </details>
+  > <details>
+  >   <summary>
+  >     ILT-SS: Time Management
+  >   </summary>
+  >   Instructor: Kenny Sulaimon
   > </details>
 
 </details>
