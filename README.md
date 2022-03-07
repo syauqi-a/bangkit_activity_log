@@ -401,4 +401,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Kenny Sulaimon
   > </details>
 
+  > <h4>7<sup>th</sup></h4>
+  >
+  > Attend to Team Meeting 1
+
 </details>
