@@ -8,9 +8,9 @@ This repo contains my activities while studying at Bangkit 2022.
 
 ## Abbreviation
 - **ILT**: Instructor-led training.
-- **GSS**: Guest Speaker Session
+- **GSS**: Guest Speaker Session.
 - **SPS**: Self-paced sessions.
-- **SS** : Soft Skill
+- **SS** : Soft Skill.
 
 ## Progress
 
@@ -399,6 +399,27 @@ This repo contains my activities while studying at Bangkit 2022.
   >     ILT-SS: Time Management
   >   </summary>
   >   Instructor: Kenny Sulaimon
+  > </details>
+
+  > <h4>7<sup>th</sup></h4>
+  >
+  > Attend to Team Meeting 1
+  >
+  > Fill the SS Assignment "Time Management"
+  >
+  > <details>
+  >   <summary>
+  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course Introduction</li>
+  >       <li>Introduction to Debugging</li>
+  >       <li></li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
