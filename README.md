@@ -417,6 +417,20 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Course Introduction</li>
   >       <li>Introduction to Debugging</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+  > <h4>8<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Understanding the Problem</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
