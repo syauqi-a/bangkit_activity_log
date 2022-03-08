@@ -431,6 +431,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>Understanding the Problem</li>
+  >       <li>Binary Searching a Problem</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
