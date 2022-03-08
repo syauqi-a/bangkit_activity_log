@@ -432,6 +432,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Understanding the Problem</li>
   >       <li>Binary Searching a Problem</li>
+  >       <li>Module Review</li>
   >       <li></li>
   >     </ul>
   >   </blockquote>
