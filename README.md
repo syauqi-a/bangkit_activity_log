@@ -441,6 +441,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Understanding Slowness</li>
   >       <li>Facing Slow Code</li>
+  >       <li>When Slowness Problems Get Complex</li>
   >     </ul>
   >   </blockquote>
   > </details>
