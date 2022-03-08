@@ -442,6 +442,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Understanding Slowness</li>
   >       <li>Facing Slow Code</li>
   >       <li>When Slowness Problems Get Complex</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Performance Tuning in Python Scripts</li>
   >     </ul>
   >   </blockquote>
   > </details>
