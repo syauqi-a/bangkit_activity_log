@@ -454,4 +454,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Lingga Aji Andika
   > </details>
 
+  > <h4>9<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Why Programs Crash</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
