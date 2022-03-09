@@ -476,6 +476,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Managing Computer Resources</li>
   >       <li>Managing Our Time</li>
   >       <li>Making Our Future Lives Easier</li>
+  >       <li>Module Review</li>
   >     </ul>
   >   </blockquote>
   > </details>
