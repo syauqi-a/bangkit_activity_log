@@ -478,7 +478,9 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Making Our Future Lives Easier</li>
   >       <li>Module Review</li>
   >       <li>Final Project (Qwiklabs Assessment: Debugging and Solving Software Problems)</li>
+  >       <li>Course Wrap-Up</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/UPQGPZYSU2AG"><i>Course certificate "Troubleshooting and Debugging Techniques" by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
