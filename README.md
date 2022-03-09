@@ -477,6 +477,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Managing Our Time</li>
   >       <li>Making Our Future Lives Easier</li>
   >       <li>Module Review</li>
+  >       <li>Final Project (Qwiklabs Assessment: Debugging and Solving Software Problems)</li>
   >     </ul>
   >   </blockquote>
   > </details>
