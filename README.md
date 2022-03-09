@@ -470,6 +470,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Fixing Errors in Python Scripts</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Managing Computer Resources</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
