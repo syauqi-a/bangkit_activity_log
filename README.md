@@ -467,6 +467,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Code that Crashes</li>
   >       <li>Handling Bigger Incidents</li>
   >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Fixing Errors in Python Scripts</li>
   >     </ul>
   >   </blockquote>
   > </details>
