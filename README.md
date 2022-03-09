@@ -447,5 +447,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     </ul>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     ILT: Python IT Automation - Git Collaboration, Troubleshooting, and Intro to Cloud
+  >   </summary>
+  >   Instructor: Lingga Aji Andika
+  > </details>
 
 </details>
