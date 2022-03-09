@@ -474,6 +474,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>Managing Computer Resources</li>
+  >       <li>Managing Our Time</li>
   >     </ul>
   >   </blockquote>
   > </details>
