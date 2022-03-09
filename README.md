@@ -417,9 +417,41 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Course Introduction</li>
   >       <li>Introduction to Debugging</li>
-  >       <li></li>
   >     </ul>
   >   </blockquote>
+  > </details>
+
+  > <h4>8<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Understanding the Problem</li>
+  >       <li>Binary Searching a Problem</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Debugging Python Scripts</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Understanding Slowness</li>
+  >       <li>Facing Slow Code</li>
+  >       <li>When Slowness Problems Get Complex</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Performance Tuning in Python Scripts</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     ILT: Python IT Automation - Git Collaboration, Troubleshooting, and Intro to Cloud
+  >   </summary>
+  >   Instructor: Lingga Aji Andika
   > </details>
 
 </details>
