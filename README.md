@@ -501,6 +501,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Debugging Puppet Installation</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Deploying Puppet Locally</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
