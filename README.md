@@ -484,4 +484,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>10<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Configuration Management and the Cloud" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course Introduction</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
