@@ -454,4 +454,34 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Lingga Aji Andika
   > </details>
 
+  > <h4>9<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Why Programs Crash</li>
+  >       <li>Code that Crashes</li>
+  >       <li>Handling Bigger Incidents</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Fixing Errors in Python Scripts</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Managing Computer Resources</li>
+  >       <li>Managing Our Time</li>
+  >       <li>Making Our Future Lives Easier</li>
+  >       <li>Module Review</li>
+  >       <li>Final Project (Qwiklabs Assessment: Debugging and Solving Software Problems)</li>
+  >       <li>Course Wrap-Up</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/UPQGPZYSU2AG"><i>Course certificate "Troubleshooting and Debugging Techniques" by Google (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+
 </details>
