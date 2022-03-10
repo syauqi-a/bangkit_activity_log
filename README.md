@@ -496,6 +496,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Course Introduction</li>
   >       <li>Introduction to Automation at Scale</li>
   >       <li>Introduction to Puppet</li>
+  >       <li>The Building Blocks of Configuration Management</li>
   >     </ul>
   >   </blockquote>
   > </details>
