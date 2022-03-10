@@ -498,6 +498,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Introduction to Puppet</li>
   >       <li>The Building Blocks of Configuration Management</li>
   >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Debugging Puppet Installation</li>
   >     </ul>
   >   </blockquote>
   > </details>
