@@ -515,4 +515,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
+  > <h4>11<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Configuration Management and the Cloud" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Deploying Puppet to Clients</li>
+  >     </ul>
+  >   </blockquote>
+
 </details>
