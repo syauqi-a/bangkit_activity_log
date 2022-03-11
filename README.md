@@ -484,4 +484,35 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>10<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Configuration Management and the Cloud" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course Introduction</li>
+  >       <li>Introduction to Automation at Scale</li>
+  >       <li>Introduction to Puppet</li>
+  >       <li>The Building Blocks of Configuration Management</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Debugging Puppet Installation</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Deploying Puppet Locally</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 3
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
+
 </details>
