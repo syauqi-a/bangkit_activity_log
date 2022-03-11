@@ -537,6 +537,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Managing Instances in the Cloud</li>
   >       <li>Automating Cloud Deployments</li>
   >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Create VM template and Automate deployment</li>
   >     </ul>
   >   </blockquote>
 
