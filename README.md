@@ -540,5 +540,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Create VM template and Automate deployment</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Building Software for the Cloud</li>
+  >     </ul>
+  >   </blockquote>
 
 </details>
