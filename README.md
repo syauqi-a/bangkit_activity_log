@@ -508,5 +508,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     </ul>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 3
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
 
 </details>
