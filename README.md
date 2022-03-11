@@ -547,6 +547,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Monitoring and Alerting</li>
   >       <li>Troubleshooting and Debugging</li>
   >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Debugging Cloud Deployment</li>
   >     </ul>
   >   </blockquote>
 
