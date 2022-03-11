@@ -545,6 +545,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Building Software for the Cloud</li>
   >       <li>Monitoring and Alerting</li>
+  >       <li>Troubleshooting and Debugging</li>
   >     </ul>
   >   </blockquote>
 
