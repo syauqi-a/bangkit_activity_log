@@ -525,6 +525,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Deploying Puppet to Clients</li>
+  >       <li>Updating Deployments</li>
   >     </ul>
   >   </blockquote>
 
