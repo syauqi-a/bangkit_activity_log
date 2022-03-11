@@ -530,5 +530,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Deployment Using Puppet</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Cloud Computing</li>
+  >     </ul>
+  >   </blockquote>
 
 </details>
