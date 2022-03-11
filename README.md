@@ -526,6 +526,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Deploying Puppet to Clients</li>
   >       <li>Updating Deployments</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Deployment Using Puppet</li>
   >     </ul>
   >   </blockquote>
 
