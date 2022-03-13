@@ -7,6 +7,7 @@ This repo contains my activities while studying at Bangkit 2022.
 [GitHub](https://github.com/syauqi-a/) | [LinkedIn](https://www.linkedin.com/in/kahmadsyauqi/)
 
 ## Abbreviation
+- **ES** : English Session
 - **ILT**: Instructor-led training.
 - **GSS**: Guest Speaker Session.
 - **SPS**: Self-paced sessions.
@@ -304,7 +305,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > </details>
   > <details>
   >   <summary>
-  >     GSS : #1 - How To be a Professional Software Engineer
+  >     GSS : 1 - How To be a Professional Software Engineer
   >   </summary>
   >   Speaker: Puja Pramudya
   >
@@ -388,7 +389,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>4<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     GSS : #2 - How to Build a Great Startup
+  >     GSS : 2 - How to Build a Great Startup
   >   </summary>
   >   Speaker: Imanuel Abraham
   >
@@ -513,6 +514,59 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Attend the Weekly Consultation 3
   >   </summary>
   >   Lead by Stefanie Chandra
+  > </details>
+
+  > <h4>11<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Configuration Management and the Cloud" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Deploying Puppet to Clients</li>
+  >       <li>Updating Deployments</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Deployment Using Puppet</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Cloud Computing</li>
+  >       <li>Managing Instances in the Cloud</li>
+  >       <li>Automating Cloud Deployments</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Create VM template and Automate deployment</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Building Software for the Cloud</li>
+  >       <li>Monitoring and Alerting</li>
+  >       <li>Troubleshooting and Debugging</li>
+  >       <li>Module Review</li>
+  >       <li>Qwiklabs Assessment: Debugging Cloud Deployment</li>
+  >       <li>Course Wrap-Up</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/QAMYAR6TXLDV"><i>Course certificate "Configuration Management and the Cloud" by Google (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     GSS : 3 - Kickstart your career as an Android Developer
+  >   </summary>
+  >   Speaker: Andrew Kurniadi
+  >
+  >   Moderator: Cendekia Luthfieta N.
+  > </details>
+  > <details>
+  >   <summary>
+  >     ES: Spoken Correspondence
+  >   </summary>
+  >   Instructor: Kathlyn Grace
   > </details>
 
 </details>
