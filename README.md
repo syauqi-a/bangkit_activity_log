@@ -589,6 +589,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Web Applications and Services</li>
   >       <li>Python Requests</li>
+  >       <li>Qwiklabs Assessment: Process Text Files with Python Dictionaries and Upload to Running Web Service</li>
   >     </ul>
   >   </blockquote>
   > </details>
