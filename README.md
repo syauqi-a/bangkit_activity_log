@@ -592,6 +592,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Process Text Files with Python Dictionaries and Upload to Running Web Service</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Sending Emails from Python</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
