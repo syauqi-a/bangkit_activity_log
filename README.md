@@ -588,6 +588,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Web Applications and Services</li>
+  >       <li>Python Requests</li>
   >     </ul>
   >   </blockquote>
   > </details>
