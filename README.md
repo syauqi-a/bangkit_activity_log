@@ -579,6 +579,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>Course Introduction</li>
+  >       <li>Application Programming Interfaces (APIs)</li>
   >     </ul>
   >   </blockquote>
   > </details>
