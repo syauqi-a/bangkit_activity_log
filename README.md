@@ -597,6 +597,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Sending Emails from Python</li>
   >       <li>Generating PDFs from Python</li>
+  >       <li>Qwiklabs Assessment: Automatically Generate a PDF and send it by Email</li>
   >     </ul>
   >   </blockquote>
   > </details>
