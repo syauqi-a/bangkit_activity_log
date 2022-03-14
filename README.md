@@ -584,6 +584,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Scale and convert images using PIL</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Web Applications and Services</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
