@@ -581,6 +581,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Course Introduction</li>
   >       <li>Application Programming Interfaces (APIs)</li>
   >       <li>Manipulating Images</li>
+  >       <li>Qwiklabs Assessment: Scale and convert images using PIL</li>
   >     </ul>
   >   </blockquote>
   > </details>
