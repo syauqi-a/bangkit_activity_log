@@ -596,6 +596,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 3 module:
   >     <ul>
   >       <li>Sending Emails from Python</li>
+  >       <li>Generating PDFs from Python</li>
   >     </ul>
   >   </blockquote>
   > </details>
