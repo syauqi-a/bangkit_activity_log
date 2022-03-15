@@ -7,7 +7,7 @@ This repo contains my activities while studying at Bangkit 2022.
 [GitHub](https://github.com/syauqi-a/) | [LinkedIn](https://www.linkedin.com/in/kahmadsyauqi/)
 
 ## Abbreviation
-- **ES** : English Session
+- **ES** : English Session.
 - **ILT**: Instructor-led training.
 - **GSS**: Guest Speaker Session.
 - **SPS**: Self-paced sessions.
@@ -567,6 +567,39 @@ This repo contains my activities while studying at Bangkit 2022.
   >     ES: Spoken Correspondence
   >   </summary>
   >   Instructor: Kathlyn Grace
+  > </details>
+
+  > <h4>14<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Automating Real-World Tasks with Python" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Course Introduction</li>
+  >       <li>Application Programming Interfaces (APIs)</li>
+  >       <li>Manipulating Images</li>
+  >       <li>Qwiklabs Assessment: Scale and convert images using PIL</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Web Applications and Services</li>
+  >       <li>Python Requests</li>
+  >       <li>Qwiklabs Assessment: Process Text Files with Python Dictionaries and Upload to Running Web Service</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Sending Emails from Python</li>
+  >       <li>Generating PDFs from Python</li>
+  >       <li>Qwiklabs Assessment: Automatically Generate a PDF and send it by Email</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
