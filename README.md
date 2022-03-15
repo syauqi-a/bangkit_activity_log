@@ -602,4 +602,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>14<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Automating Real-World Tasks with Python" by Google (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Final Course Project: Automate updating catalog information (Qwiklabs Assessment)</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
