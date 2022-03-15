@@ -602,7 +602,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>14<sup>th</sup></h4>
+  > <h4>15<sup>th</sup></h4>
   > <details>
   >   <summary>
   >     SPS: "Automating Real-World Tasks with Python" by Google (Coursera)
@@ -613,7 +613,9 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Final Course Project: Automate updating catalog information (Qwiklabs Assessment)</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/ZG3UFE3WUYJY"><i>Course certificate "Automating Real-World Tasks with Python" by Google (Coursera)</i></a>
   >   </blockquote>
+  >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CXCW47ELJZWD"><i>Specialization certificate "Google IT Automation with Python" by Google (Coursera)</i></a>
   > </details>
 
 </details>
