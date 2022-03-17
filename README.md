@@ -649,6 +649,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Finding the size of a vector, its angle, and projection</li>
+  >       <li>Changing the reference frame</li>
   >     </ul>
   >   </blockquote>
   > </details>
