@@ -650,6 +650,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Finding the size of a vector, its angle, and projection</li>
   >       <li>Changing the reference frame</li>
+  >       <li>Doing some real-world vectors examples</li>
   >     </ul>
   >   </blockquote>
   > </details>
