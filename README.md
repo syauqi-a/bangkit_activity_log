@@ -29,7 +29,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>15<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" offered by Dicoding
   >   </summary>
   >   <ul>
   >     <li>Introduction and installing python</li>
@@ -42,7 +42,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>16<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" offered by Dicoding
   >   </summary>
   >   <ul>
   >     <li>Style Guide on Python</li>
@@ -56,7 +56,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>17<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" by Dicoding
+  >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" offered by Dicoding
   >   </summary>
   >   <ul>
   >     <li>Unit testing on python</li>
@@ -73,7 +73,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>18<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -87,7 +87,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>19<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -102,7 +102,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>20<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -116,7 +116,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>21<sup>st</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -152,7 +152,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>22<sup>nd</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -186,7 +186,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>23<sup>rd</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Crash Course on Python" by Google (Coursera)
+  >     SPS: "Crash Course on Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -196,12 +196,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Final Project</li>
   >       <li>Programming Assignment (Final Project: WordCloud)</li>
   >     </ul>
-  >     <a href="https://www.coursera.org/account/accomplishments/certificate/NR6X7QCNSF93"><i>Course certificate "Crash Course on Python" by Google (Coursera)</i></a>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/NR6X7QCNSF93"><i>Course certificate "Crash Course on Python" offered by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
   > <details>
   >   <summary>
-  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >     SPS: "Using Python to Interact with the Operating System" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -231,7 +231,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>24<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >     SPS: "Using Python to Interact with the Operating System" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -261,7 +261,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>25<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Using Python to Interact with the Operating System" by Google (Coursera)
+  >     SPS: "Using Python to Interact with the Operating System" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -300,7 +300,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Course Wrap-Up</li>
   >       <li>Final Project (Qwiklabs Assessment: Log Analysis Using Regular Expressions)</li>
   >     </ul>
-  >     <a href="https://www.coursera.org/account/accomplishments/certificate/3AWM83VL2BKJ"><i>Course certificate "Using Python to Interact with the Operating System" by Google (Coursera)</i></a>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/3AWM83VL2BKJ"><i>Course certificate "Using Python to Interact with the Operating System" offered by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
   > <details>
@@ -324,7 +324,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>1<sup>st</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Introduction to Git and GitHub" by Google (Coursera)
+  >     SPS: "Introduction to Git and GitHub" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -343,7 +343,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>2<sup>nd</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Introduction to Git and GitHub" by Google (Coursera)
+  >     SPS: "Introduction to Git and GitHub" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -376,7 +376,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Final Project (Qwiklabs Assessment: Pushing Local Commits to Github)</li>
   >       <li>Course Wrap-Up</li>
   >     </ul>
-  >     <a href="https://www.coursera.org/account/accomplishments/certificate/KCGYQELGZ6VH"><i>Course certificate "Introduction to Git and GitHub" by Google (Coursera)</i></a>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/KCGYQELGZ6VH"><i>Course certificate "Introduction to Git and GitHub" offered by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
   > <details>
@@ -410,7 +410,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >
   > <details>
   >   <summary>
-  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >     SPS: "Troubleshooting and Debugging Techniques" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -425,7 +425,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>8<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >     SPS: "Troubleshooting and Debugging Techniques" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -458,7 +458,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>9<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Troubleshooting and Debugging Techniques" by Google (Coursera)
+  >     SPS: "Troubleshooting and Debugging Techniques" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -481,14 +481,14 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Final Project (Qwiklabs Assessment: Debugging and Solving Software Problems)</li>
   >       <li>Course Wrap-Up</li>
   >     </ul>
-  >     <a href="https://www.coursera.org/account/accomplishments/certificate/UPQGPZYSU2AG"><i>Course certificate "Troubleshooting and Debugging Techniques" by Google (Coursera)</i></a>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/UPQGPZYSU2AG"><i>Course certificate "Troubleshooting and Debugging Techniques" offered by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
   > <h4>10<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Configuration Management and the Cloud" by Google (Coursera)
+  >     SPS: "Configuration Management and the Cloud" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -519,7 +519,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>11<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Configuration Management and the Cloud" by Google (Coursera)
+  >     SPS: "Configuration Management and the Cloud" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -551,7 +551,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Qwiklabs Assessment: Debugging Cloud Deployment</li>
   >       <li>Course Wrap-Up</li>
   >     </ul>
-  >     <a href="https://www.coursera.org/account/accomplishments/certificate/QAMYAR6TXLDV"><i>Course certificate "Configuration Management and the Cloud" by Google (Coursera)</i></a>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/QAMYAR6TXLDV"><i>Course certificate "Configuration Management and the Cloud" offered by Google (Coursera)</i></a>
   >   </blockquote>
   > </details>
   > <details>
@@ -572,7 +572,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>14<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Automating Real-World Tasks with Python" by Google (Coursera)
+  >     SPS: "Automating Real-World Tasks with Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -605,7 +605,7 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>15<sup>th</sup></h4>
   > <details>
   >   <summary>
-  >     SPS: "Automating Real-World Tasks with Python" by Google (Coursera)
+  >     SPS: "Automating Real-World Tasks with Python" offered by Google (Coursera)
   >   </summary>
   >   <br/>
   >   <blockquote>
@@ -613,9 +613,24 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Final Course Project: Automate updating catalog information (Qwiklabs Assessment)</li>
   >     </ul>
-  >     <a href="https://www.coursera.org/account/accomplishments/certificate/ZG3UFE3WUYJY"><i>Course certificate "Automating Real-World Tasks with Python" by Google (Coursera)</i></a>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/ZG3UFE3WUYJY"><i>Course certificate "Automating Real-World Tasks with Python" offered by Google (Coursera)</i></a>
   >   </blockquote>
-  >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CXCW47ELJZWD"><i>Specialization certificate "Google IT Automation with Python" by Google (Coursera)</i></a>
+  >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CXCW47ELJZWD"><i>Specialization certificate "Google IT Automation with Python" offered by Google (Coursera)</i></a>
+  > </details>
+
+  > <h4>16<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Welcome to this course</li>
+  >       <li>The relationship between machine learning, linear algebra, and vectors and matrices</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
