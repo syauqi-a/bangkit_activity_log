@@ -633,4 +633,32 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>17<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Vectors</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Finding the size of a vector, its angle, and projection</li>
+  >       <li>Changing the reference frame</li>
+  >       <li>Doing some real-world vectors examples</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 4
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
+
 </details>
