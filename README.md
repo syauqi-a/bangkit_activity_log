@@ -683,5 +683,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >
   >   Moderator: Maria Gita Teresa Febriani
   > </details>
+  > <details>
+  >   <summary>
+  >     ILT-SS: Professional Branding & Interview
+  >   </summary>
+  >   Instructor: <a href="https://www.linkedin.com/in/fikrikawakibi/">Muhammad Fikri Kawakibi Huda</a>
+  > </details>
 
 </details>
