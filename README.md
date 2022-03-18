@@ -661,4 +661,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
+  > <h4>18<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Matrices in linear algebra: operating on vectors</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
