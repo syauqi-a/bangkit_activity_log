@@ -675,5 +675,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >     </ul>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     GSS : 4 - Embrace the Power of Google Cloud Platform
+  >   </summary>
+  >   Speaker: <a href="https://www.linkedin.com/in/rendratoro/">Nurendratoro Singgih<a/>
+  >
+  >   Moderator: Maria Gita Teresa Febriani
+  > </details>
 
 </details>
