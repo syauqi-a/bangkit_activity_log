@@ -690,7 +690,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: <a href="https://www.linkedin.com/in/fikrikawakibi/">Muhammad Fikri Kawakibi Huda</a>
   > </details>
 
-  > <h4>18<sup>th</sup></h4>
+  > <h4>19<sup>th</sup></h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
