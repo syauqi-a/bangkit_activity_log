@@ -707,6 +707,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Matrices as objects that map one vector onto another; all the types of matrices</li>
   >       <li>Matrices transform into the new basis vector set</li>
+  >       <li>Making Multiple Mappings, deciding if these are reversible</li>
   >     </ul>
   >   </blockquote>
   > </details>
