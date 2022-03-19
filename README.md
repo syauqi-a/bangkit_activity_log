@@ -702,6 +702,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Special matrices and Coding up some matrix operations</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Matrices as objects that map one vector onto another; all the types of matrices</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
