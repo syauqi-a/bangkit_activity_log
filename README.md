@@ -706,6 +706,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>Matrices as objects that map one vector onto another; all the types of matrices</li>
+  >       <li>Matrices transform into the new basis vector set</li>
   >     </ul>
   >   </blockquote>
   > </details>
