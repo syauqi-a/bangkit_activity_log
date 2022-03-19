@@ -661,4 +661,33 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
+  > <h4>18<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Matrices in linear algebra: operating on vectors</li>
+  >       <li>Matrix Inverses</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     GSS : 4 - Embrace the Power of Google Cloud Platform
+  >   </summary>
+  >   Speaker: <a href="https://www.linkedin.com/in/rendratoro/">Nurendratoro Singgih<a/>
+  >
+  >   Moderator: Maria Gita Teresa Febriani
+  > </details>
+  > <details>
+  >   <summary>
+  >     ILT-SS: Professional Branding & Interview
+  >   </summary>
+  >   Instructor: <a href="https://www.linkedin.com/in/fikrikawakibi/">Muhammad Fikri Kawakibi Huda</a>
+  > </details>
+
 </details>
