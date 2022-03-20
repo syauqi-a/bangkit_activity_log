@@ -713,4 +713,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>20<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 5 module:
+  >     <ul>
+  >       <li>What are eigen-things?</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
