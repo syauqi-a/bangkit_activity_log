@@ -724,6 +724,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>What are eigen-things?</li>
   >       <li>Getting into the detail of eigenproblems</li>
+  >       <li>When changing to the eigenbasis is really useful</li>
   >     </ul>
   >   </blockquote>
   > </details>
