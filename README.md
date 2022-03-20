@@ -723,6 +723,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 5 module:
   >     <ul>
   >       <li>What are eigen-things?</li>
+  >       <li>Getting into the detail of eigenproblems</li>
   >     </ul>
   >   </blockquote>
   > </details>
