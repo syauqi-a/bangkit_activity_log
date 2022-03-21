@@ -741,6 +741,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>Back to basics: functions</li>
+  >       <li>Gradients and derivatives</li>
   >     </ul>
   >   </blockquote>
   > </details>
