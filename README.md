@@ -731,4 +731,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>21<sup>st</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Back to basics: functions</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
