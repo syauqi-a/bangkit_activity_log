@@ -750,6 +750,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Moving to multivariate</li>
+  >       <li>Jacobians - vectors of derivatives</li>
   >     </ul>
   >   </blockquote>
   > </details>
