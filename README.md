@@ -713,4 +713,22 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>20<sup>th</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 5 module:
+  >     <ul>
+  >       <li>What are eigen-things?</li>
+  >       <li>Getting into the detail of eigenproblems</li>
+  >       <li>When changing to the eigenbasis is really useful</li>
+  >       <li>Making the PageRank algorithm</li>
+  >       <li>Eigenvalues and Eigenvectors: Assessment</li>
+  >     </ul><a href="https://www.coursera.org/account/accomplishments/certificate/FSAHH53CAANR"><i>Course certificate "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+
 </details>
