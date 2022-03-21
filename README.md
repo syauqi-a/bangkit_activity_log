@@ -746,6 +746,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Assessment</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Moving to multivariate</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
