@@ -742,6 +742,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Back to basics: functions</li>
   >       <li>Gradients and derivatives</li>
+  >       <li>Time saving rules</li>
+  >       <li>Assessment</li>
   >     </ul>
   >   </blockquote>
   > </details>
