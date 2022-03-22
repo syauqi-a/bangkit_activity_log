@@ -767,6 +767,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>The sandpit game</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Chain rule intro.</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
