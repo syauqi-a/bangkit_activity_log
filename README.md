@@ -771,6 +771,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 3 module:
   >     <ul>
   >       <li>Chain rule intro.</li>
+  >       <li>Neural Networks</li>
   >     </ul>
   >   </blockquote>
   > </details>
