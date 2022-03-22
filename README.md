@@ -774,6 +774,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Neural Networks</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Taylor series for approximations</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
