@@ -798,6 +798,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 5 module:
   >     <ul>
   >       <li>Fitting as minimisation problem</li>
+  >       <li>Lagrange multipliers</li>
   >     </ul>
   >   </blockquote>
   > </details>
