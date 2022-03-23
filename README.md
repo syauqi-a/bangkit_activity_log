@@ -794,6 +794,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Multivariable Taylor Series</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 5 module:
+  >     <ul>
+  >       <li>Fitting as minimisation problem</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
