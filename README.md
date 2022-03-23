@@ -755,4 +755,31 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>22<sup>nd</sup></h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>The sandpit game</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Chain rule intro.</li>
+  >       <li>Neural Networks</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Taylor series for approximations</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
