@@ -22,11 +22,11 @@ This repo contains my activities while studying at Bangkit 2022.
   </summary>
   <br>
 
-  > <h4>14<sup>th</sup></h4>
+  > <h4>14<sup>th</sup> Feb</h4>
   >
   > Attend to Opening Session and Techinical Briefing Session
 
-  > <h4>15<sup>th</sup></h4>
+  > <h4>15<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" offered by Dicoding
@@ -39,7 +39,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   > </details>
 
-  > <h4>16<sup>th</sup></h4>
+  > <h4>16<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" offered by Dicoding
@@ -53,7 +53,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </ul>
   > </details>
 
-  > <h4>17<sup>th</sup></h4>
+  > <h4>17<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "<i>Memulai Pemrograman Dengan Python</i>" offered by Dicoding
@@ -70,7 +70,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <a href="https://www.dicoding.com/certificates/N9ZOEKYO0XG5"><i>Course certificate</i> "<b>Memulai Pemrograman Dengan Python</b>" <i>by Dicoding</i></a>
   > </details>
 
-  > <h4>18<sup>th</sup></h4>
+  > <h4>18<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Crash Course on Python" offered by Google (Coursera)
@@ -84,7 +84,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>19<sup>th</sup></h4>
+  > <h4>19<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Crash Course on Python" offered by Google (Coursera)
@@ -99,7 +99,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>20<sup>th</sup></h4>
+  > <h4>20<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Crash Course on Python" offered by Google (Coursera)
@@ -113,7 +113,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>21<sup>st</sup></h4>
+  > <h4>21<sup>st</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Crash Course on Python" offered by Google (Coursera)
@@ -149,7 +149,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Hidayaturrahman
   > </details>
 
-  > <h4>22<sup>nd</sup></h4>
+  > <h4>22<sup>nd</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Crash Course on Python" offered by Google (Coursera)
@@ -183,7 +183,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>23<sup>rd</sup></h4>
+  > <h4>23<sup>rd</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Crash Course on Python" offered by Google (Coursera)
@@ -228,7 +228,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>24<sup>th</sup></h4>
+  > <h4>24<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Using Python to Interact with the Operating System" offered by Google (Coursera)
@@ -258,7 +258,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
-  > <h4>25<sup>th</sup></h4>
+  > <h4>25<sup>th</sup> Feb</h4>
   > <details>
   >   <summary>
   >     SPS: "Using Python to Interact with the Operating System" offered by Google (Coursera)
@@ -321,7 +321,7 @@ This repo contains my activities while studying at Bangkit 2022.
   </summary>
   <br>
 
-  > <h4>1<sup>st</sup></h4>
+  > <h4>1<sup>st</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Introduction to Git and GitHub" offered by Google (Coursera)
@@ -340,7 +340,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>2<sup>nd</sup></h4>
+  > <h4>2<sup>nd</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Introduction to Git and GitHub" offered by Google (Coursera)
@@ -386,7 +386,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
-  > <h4>4<sup>th</sup></h4>
+  > <h4>4<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     GSS : 2 - How to Build a Great Startup
@@ -402,7 +402,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Kenny Sulaimon
   > </details>
 
-  > <h4>7<sup>th</sup></h4>
+  > <h4>7<sup>th</sup> Mar</h4>
   >
   > Attend to Team Meeting 1
   >
@@ -422,7 +422,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>8<sup>th</sup></h4>
+  > <h4>8<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Troubleshooting and Debugging Techniques" offered by Google (Coursera)
@@ -455,7 +455,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Lingga Aji Andika
   > </details>
 
-  > <h4>9<sup>th</sup></h4>
+  > <h4>9<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Troubleshooting and Debugging Techniques" offered by Google (Coursera)
@@ -485,7 +485,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>10<sup>th</sup></h4>
+  > <h4>10<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Configuration Management and the Cloud" offered by Google (Coursera)
@@ -516,7 +516,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
-  > <h4>11<sup>th</sup></h4>
+  > <h4>11<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Configuration Management and the Cloud" offered by Google (Coursera)
@@ -569,7 +569,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Kathlyn Grace
   > </details>
 
-  > <h4>14<sup>th</sup></h4>
+  > <h4>14<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Automating Real-World Tasks with Python" offered by Google (Coursera)
@@ -602,7 +602,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>15<sup>th</sup></h4>
+  > <h4>15<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Automating Real-World Tasks with Python" offered by Google (Coursera)
@@ -618,7 +618,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/CXCW47ELJZWD"><i>Specialization certificate "Google IT Automation with Python" offered by Google (Coursera)</i></a>
   > </details>
 
-  > <h4>16<sup>th</sup></h4>
+  > <h4>16<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
@@ -633,7 +633,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>17<sup>th</sup></h4>
+  > <h4>17<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
@@ -661,7 +661,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
-  > <h4>18<sup>th</sup></h4>
+  > <h4>18<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
@@ -690,7 +690,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: <a href="https://www.linkedin.com/in/fikrikawakibi/">Muhammad Fikri Kawakibi Huda</a>
   > </details>
 
-  > <h4>19<sup>th</sup></h4>
+  > <h4>19<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
@@ -713,7 +713,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>20<sup>th</sup></h4>
+  > <h4>20<sup>th</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Linear Algebra" offered by Imperial College London (Coursera)
@@ -731,7 +731,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>21<sup>st</sup></h4>
+  > <h4>21<sup>st</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
@@ -755,7 +755,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>22<sup>nd</sup></h4>
+  > <h4>22<sup>nd</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
@@ -782,7 +782,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
-  > <h4>23<sup>rd</sup></h4>
+  > <h4>23<sup>rd</sup> Mar</h4>
   > <details>
   >   <summary>
   >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
@@ -799,6 +799,20 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Fitting as minimisation problem</li>
   >       <li>Lagrange multipliers</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+  > <h4>24<sup>th</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Into to linear regression</li>
   >     </ul>
   >   </blockquote>
   > </details>
