@@ -838,5 +838,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/PBKMQWMMRZNR"><i>Course certificate "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)</i></a>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Principal Component Analysis" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Introduction to the course</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
 
 </details>
