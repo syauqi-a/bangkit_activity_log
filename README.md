@@ -823,4 +823,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
+  > <h4>25<sup>th</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Multivariate Calculus" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 6 module:
+  >     <ul>
+  >       <li>Non-linear regression</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
