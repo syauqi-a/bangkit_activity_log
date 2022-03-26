@@ -850,5 +850,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     </ul>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     ILT: Mathematics for Machine Learning
+  >   </summary>
+  >   Instructor: Henokh Lugo
+  > </details>
 
 </details>
