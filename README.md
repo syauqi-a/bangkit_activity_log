@@ -868,6 +868,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Mean values</li>
   >       <li>Variances and covariances</li>
+  >       <li>Linear transformation of datasets</li>
   >     </ul>
   >   </blockquote>
   > </details>
