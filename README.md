@@ -871,6 +871,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Linear transformation of datasets</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Dot product</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
