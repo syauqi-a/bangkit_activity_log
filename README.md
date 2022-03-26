@@ -857,4 +857,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Henokh Lugo
   > </details>
 
+  > <h4>26<sup>th</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Mathematics for Machine Learning: Principal Component Analysis" offered by Imperial College London (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Mean values</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
