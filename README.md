@@ -867,6 +867,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>Mean values</li>
+  >       <li>Variances and covariances</li>
   >     </ul>
   >   </blockquote>
   > </details>
