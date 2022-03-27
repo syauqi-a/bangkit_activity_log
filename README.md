@@ -901,8 +901,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>PCA derivation</li>
+  >       <li>PCA algorithm</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/S8UTKRGLBP89"><i>Course certificate "Mathematics for Machine Learning: PCA" offered by Imperial College London (Coursera)</i></a>
   >   </blockquote>
+  >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KWJ6N2SXDG4Z"><i>Specialization certificate "Mathematics for Machine Learning" offered by Imperial College London (Coursera)</i></a>
   > </details>
 
 </details>
