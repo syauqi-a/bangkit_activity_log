@@ -891,6 +891,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Inner products</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Projections</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
