@@ -897,6 +897,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Projections</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>PCA derivation</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
