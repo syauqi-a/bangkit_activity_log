@@ -908,4 +908,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KWJ6N2SXDG4Z"><i>Specialization certificate "Mathematics for Machine Learning" offered by Imperial College London (Coursera)</i></a>
   > </details>
 
+  > <h4>28<sup>th</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>A new programming paradigm</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
