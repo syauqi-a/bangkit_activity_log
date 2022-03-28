@@ -921,6 +921,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Weekly Assignment - Your First Neural Network</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Introduction to Computer Vision</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
