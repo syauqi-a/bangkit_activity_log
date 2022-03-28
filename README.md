@@ -918,6 +918,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>A new programming paradigm</li>
+  >       <li>Weekly Assignment - Your First Neural Network</li>
   >     </ul>
   >   </blockquote>
   > </details>
