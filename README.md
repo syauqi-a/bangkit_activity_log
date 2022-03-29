@@ -929,4 +929,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>29<sup>th</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Weekly Assignment - Implement a Deep Neural Network to recognize handwritten digits</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
