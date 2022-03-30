@@ -956,6 +956,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Weekly Assignment - Improving DNN Performance using Convolutions</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Using Real-world Images</li>
+  >       <li>Weekly Assignment - Handling Complex Images</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
