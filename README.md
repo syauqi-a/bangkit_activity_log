@@ -965,5 +965,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/JWPCVNWQUFHK"><i>Course certificate "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     ILT-SS: Critical Thinking
+  >   </summary>
+  >   Instructor: Evelyn Tyas Nirmala
+  > </details>
 
 </details>
