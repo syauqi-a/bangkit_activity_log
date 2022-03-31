@@ -943,4 +943,33 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>30<sup>th</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Enhancing Vision with Convolutional Neural Networks</li>
+  >       <li>Weekly Assignment - Improving DNN Performance using Convolutions</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Using Real-world Images</li>
+  >       <li>Weekly Assignment - Handling Complex Images</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/JWPCVNWQUFHK"><i>Course certificate "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning" offered by DeepLearning.AI (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     ILT-SS: Critical Thinking
+  >   </summary>
+  >   Instructor: Evelyn Tyas Nirmala
+  > </details>
+
 </details>
