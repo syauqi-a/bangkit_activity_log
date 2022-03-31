@@ -972,4 +972,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Instructor: Evelyn Tyas Nirmala
   > </details>
 
+  > <h4>31<sup>st</sup> Mar</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Convolutional Neural Networks in TensorFlow" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Larger Dataset</li>
+  >       <li>Weekly Assignment - Attempt the cats vs. dogs Kaggle challenge!</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
