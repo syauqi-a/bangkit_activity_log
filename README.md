@@ -985,6 +985,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Weekly Assignment - Attempt the cats vs. dogs Kaggle challenge!</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Augmentation</li>
+  >       <li>Weekly Assignment - Full cats vs. dogs using augmentation</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
