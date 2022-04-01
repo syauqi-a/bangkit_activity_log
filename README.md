@@ -1022,6 +1022,13 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Weekly Assignment - Transfer Learning: Horses vs Humans</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Multiclass Classifications</li>
+  >       <li>Weekly Assignment - Multi-class Classification</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
