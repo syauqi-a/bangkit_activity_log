@@ -1001,3 +1001,27 @@ This repo contains my activities while studying at Bangkit 2022.
   > </details>
 
 </details>
+
+<details>
+
+  <summary>
+    <b>April 2022</b>
+  </summary>
+  <br>
+
+  > <h4>1<sup>st</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Convolutional Neural Networks in TensorFlow" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Transfer Learning</li>
+  >       <li>Weekly Assignment - Transfer Learning: Horses vs Humans</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+</details>
