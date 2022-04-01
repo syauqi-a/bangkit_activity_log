@@ -1028,6 +1028,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Multiclass Classifications</li>
   >       <li>Weekly Assignment - Multi-class Classification</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/UKFURT83QXEH"><i>Course certificate "Convolutional Neural Networks in TensorFlow" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
