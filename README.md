@@ -1042,6 +1042,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>Sentiment in text</li>
+  >       <li>Weekly Assignment - Explore the BBC News Archive</li>
   >     </ul>
   >   </blockquote>
   > </details>
