@@ -1047,4 +1047,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>4<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Word Embeddings</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
