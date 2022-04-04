@@ -1060,6 +1060,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Weekly Assignment - More on the BBC News Archive</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Sequence models</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
