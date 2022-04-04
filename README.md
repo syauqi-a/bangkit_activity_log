@@ -1057,6 +1057,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Word Embeddings</li>
+  >       <li>Weekly Assignment - More on the BBC News Archive</li>
   >     </ul>
   >   </blockquote>
   > </details>
