@@ -1064,6 +1064,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 3 module:
   >     <ul>
   >       <li>Sequence models</li>
+  >       <li>Weekly Assignment - Exploring overfitting in NLP</li>
   >     </ul>
   >   </blockquote>
   > </details>
