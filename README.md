@@ -1032,4 +1032,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>3<sup>rd</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Sentiment in text</li>
+  >       <li>Weekly Assignment - Explore the BBC News Archive</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
