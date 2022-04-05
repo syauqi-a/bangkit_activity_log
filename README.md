@@ -1081,6 +1081,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Sequence models and literature</li>
   >       <li>Weekly Assignment - Generate Shakespeare-like text</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/JD85P4P4NELX"><i>Course certificate "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
