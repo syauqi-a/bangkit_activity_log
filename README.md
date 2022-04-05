@@ -1084,5 +1084,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/JD85P4P4NELX"><i>Course certificate "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Sequences and Prediction</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
 
 </details>
