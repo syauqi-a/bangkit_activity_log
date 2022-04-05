@@ -1047,4 +1047,26 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>4<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Word Embeddings</li>
+  >       <li>Weekly Assignment - More on the BBC News Archive</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Sequence models</li>
+  >       <li>Weekly Assignment - Exploring overfitting in NLP</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
