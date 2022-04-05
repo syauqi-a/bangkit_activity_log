@@ -1079,6 +1079,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>Sequence models and literature</li>
+  >       <li>Weekly Assignment - Generate Shakespeare-like text</li>
   >     </ul>
   >   </blockquote>
   > </details>
