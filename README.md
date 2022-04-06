@@ -1100,5 +1100,17 @@ This repo contains my activities while studying at Bangkit 2022.
   > <h4>6<sup>th</sup> Apr</h4>
   >
   > Attend to Team Meeting 2
+  > <details>
+  >   <summary>
+  >     SPS: "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Deep Neural Networks for Time Series</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
 
 </details>
