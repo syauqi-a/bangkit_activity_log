@@ -1069,4 +1069,32 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>5<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Sequence models and literature</li>
+  >       <li>Weekly Assignment - Generate Shakespeare-like text</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/JD85P4P4NELX"><i>Course certificate "Natural Language Processing in TensorFlow" offered by DeepLearning.AI (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Sequences and Prediction</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
