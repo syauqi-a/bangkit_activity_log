@@ -1097,4 +1097,8 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>6<sup>th</sup> Apr</h4>
+  >
+  > Attend to Team Meeting 2
+
 </details>
