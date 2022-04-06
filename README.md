@@ -1111,6 +1111,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Deep Neural Networks for Time Series</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Recurrent Neural Networks for time series</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
