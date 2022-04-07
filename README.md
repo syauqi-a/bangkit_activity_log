@@ -1126,5 +1126,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </summary>
   >   Instructor: Marjorie Florentino
   > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Real-world time series data</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
 
 </details>
