@@ -1119,4 +1119,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>7<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     ES: Expressing Opinions
+  >   </summary>
+  >   Instructor: Marjorie Florentino
+  > </details>
+
 </details>
