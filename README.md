@@ -852,6 +852,14 @@ This repo contains my activities while studying at Bangkit 2022.
   > </details>
   > <details>
   >   <summary>
+  >     GSS : 5 - Convolutional Neural Network Concept & Implementation
+  >   </summary>
+  >   Speaker: Vincent Tatan
+  >
+  >   Moderator: Iga Narendra
+  > </details>
+  > <details>
+  >   <summary>
   >     ILT: Mathematics for Machine Learning
   >   </summary>
   >   Instructor: Henokh Lugo
@@ -1031,6 +1039,14 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/UKFURT83QXEH"><i>Course certificate "Convolutional Neural Networks in TensorFlow" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     GSS : 6 - How to excel during Interview in Global Technology Companies
+  >   </summary>
+  >   Speaker: Ivan Nugroho
+  >
+  >   Moderator: Mutiara Arumsari
+  > </details>
 
   > <h4>3<sup>rd</sup> Apr</h4>
   > <details>
@@ -1139,6 +1155,16 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/L5GVEHAL92HJ"><i>Course certificate "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KWJ6N2SXDG4Z"><i>Specialization certificate "DeepLearning.AI TensorFlow Developer Specialization" offered by DeepLearning.AI (Coursera)</i></a>
+  > </details>
+
+  > <h4>8<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     GSS : 7 - 10 recipes to Mastery Android App Development
+  >   </summary>
+  >   Speaker: Sidiq Permana
+  >
+  >   Moderator: Timotius Haniel
   > </details>
 
 </details>
