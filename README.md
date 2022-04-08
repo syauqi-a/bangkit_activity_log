@@ -1119,4 +1119,26 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>7<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     ES: Expressing Opinions
+  >   </summary>
+  >   Instructor: Marjorie Florentino
+  > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Real-world time series data</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/L5GVEHAL92HJ"><i>Course certificate "Sequences, Time Series and Prediction" offered by DeepLearning.AI (Coursera)</i></a>
+  >   </blockquote>
+  >   <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/KWJ6N2SXDG4Z"><i>Specialization certificate "DeepLearning.AI TensorFlow Developer Specialization" offered by DeepLearning.AI (Coursera)</i></a>
+  > </details>
+
 </details>
