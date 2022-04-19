@@ -1302,6 +1302,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Assignment: Fashion MNIST Classifier</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Toxicity Classifier</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
