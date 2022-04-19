@@ -1297,6 +1297,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 2 module:
   >     <ul>
   >       <li>Creating Convolutional Neural Networks in JavaScript</li>
+  >       <li>Using a Sprite Sheet</li>
   >     </ul>
   >   </blockquote>
   > </details>
