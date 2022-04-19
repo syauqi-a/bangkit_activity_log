@@ -1308,6 +1308,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Toxicity Classifier</li>
   >       <li>Image Classification Using MobileNet</li>
   >       <li>Converting Models to JSON Format</li>
+  >       <li>Assignment: Converting a Python Model to JavaScript</li>
   >     </ul>
   >   </blockquote>
   > </details>
