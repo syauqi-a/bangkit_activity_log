@@ -1306,6 +1306,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 3 module:
   >     <ul>
   >       <li>Toxicity Classifier</li>
+  >       <li>Image Classification Using MobileNet</li>
   >     </ul>
   >   </blockquote>
   > </details>
