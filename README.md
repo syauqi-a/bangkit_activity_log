@@ -1299,6 +1299,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Creating Convolutional Neural Networks in JavaScript</li>
   >       <li>Using a Sprite Sheet</li>
   >       <li>MNIST Classifier</li>
+  >       <li>Assignment: Fashion MNIST Classifier</li>
   >     </ul>
   >   </blockquote>
   > </details>
