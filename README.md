@@ -399,7 +399,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >   <summary>
   >     ILT-SS: Time Management
   >   </summary>
-  >   Instructor: Kenny Sulaimon
+  >   Instructor: Kenneth Budiman
   > </details>
 
   > <h4>7<sup>th</sup> Mar</h4>
@@ -1165,6 +1165,126 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Speaker: Sidiq Permana
   >
   >   Moderator: Timotius Haniel
+  > </details>
+
+  > <h4>9<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     ILT: Tensorflow in Practice
+  >   </summary>
+  >   Instructor: Dr. Hery Heryanto, S.Kom., M.Kom.
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 7
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
+
+  > <h4>11<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Structuring Machine Learning Projects" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Introduction to ML Strategy</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+  > <h4>12<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Structuring Machine Learning Projects" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Introduction to ML Strategy</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+  > <h4>13<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Structuring Machine Learning Projects" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Introduction to ML Strategy</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+  > <h4>14<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Structuring Machine Learning Projects" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Comparing to Human-level Performance</li>
+  >       <li>Quiz: Bird Recognition in the City of Peacetopia (Case Study)</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
+  > <h4>15<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Structuring Machine Learning Projects" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Error Analysis</li>
+  >       <li>Mismatched Training and Dev/Test Set</li>
+  >       <li>Learning from Multiple Tasks</li>
+  >       <li>End-to-end Deep Learning</li>
+  >       <li>Quiz: Autonomous Driving (Case Study)</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/VXQU3BABL9SL"><i>Course certificate "Structuring Machine Learning Projects" offered by DeepLearning.AI (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+
+  > <h4>16<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     ILT-SS: Adaptability
+  >   </summary>
+  >   Instructor: Kenneth Budiman
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 8
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
+
+  > <h4>18<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Training and Inference using TensorFlow.js in JavaScript</li>
+  >       <li>Training Models with CSV Files</li>
+  >       <li>Assignment: Breast Cancer Classification</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
