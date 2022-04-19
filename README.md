@@ -1287,4 +1287,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>19<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Creating Convolutional Neural Networks in JavaScript</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
