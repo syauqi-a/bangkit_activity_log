@@ -1287,4 +1287,30 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>19<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Creating Convolutional Neural Networks in JavaScript</li>
+  >       <li>Using a Sprite Sheet</li>
+  >       <li>MNIST Classifier</li>
+  >       <li>Assignment: Fashion MNIST Classifier</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>Toxicity Classifier</li>
+  >       <li>Image Classification Using MobileNet</li>
+  >       <li>Converting Models to JSON Format</li>
+  >       <li>Assignment: Converting a Python Model to JavaScript</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
