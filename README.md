@@ -1325,6 +1325,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Retraining the MobileNet Model</li>
   >       <li>Capturing the Data</li>
   >       <li>Performing Inference From the Webcam Feed</li>
+  >       <li>Assignment: Rock Paper Scissors</li>
   >     </ul>
   >   </blockquote>
   > </details>
