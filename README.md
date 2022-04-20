@@ -1327,6 +1327,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Performing Inference From the Webcam Feed</li>
   >       <li>Assignment: Rock Paper Scissors</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/YE4K5P5Y9862"><i>Course certificate "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
