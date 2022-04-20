@@ -1313,4 +1313,19 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>20<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Retraining the MobileNet Model</li>
+  >       <li>Capturing the Data</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
