@@ -1330,5 +1330,17 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <a href="https://www.coursera.org/account/accomplishments/certificate/YE4K5P5Y9862"><i>Course certificate "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Device-based Models with TensorFlow Lite" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Machine Learning Models in Mobile and Embedded Systems</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
 
 </details>
