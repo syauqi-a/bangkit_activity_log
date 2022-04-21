@@ -1357,6 +1357,12 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Assignment: Train Your Own Model and Convert It to TFLite</li>
   >     </ul>
   >   </blockquote>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Basic image classification</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
