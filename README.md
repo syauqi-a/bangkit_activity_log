@@ -1343,4 +1343,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>21<sup>st</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Device-based Models with TensorFlow Lite" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Taking a look at the saved model format</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
