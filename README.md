@@ -1313,4 +1313,34 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>20<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>Retraining the MobileNet Model</li>
+  >       <li>Capturing the Data</li>
+  >       <li>Performing Inference From the Webcam Feed</li>
+  >       <li>Assignment: Rock Paper Scissors</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/YE4K5P5Y9862"><i>Course certificate "Browser-based Models with TensorFlow.js" offered by DeepLearning.AI (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+  > <details>
+  >   <summary>
+  >     SPS: "Device-based Models with TensorFlow Lite" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Machine Learning Models in Mobile and Embedded Systems</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
