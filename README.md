@@ -1353,6 +1353,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 1 module:
   >     <ul>
   >       <li>Taking a look at the saved model format</li>
+  >       <li>First primer on running models on mobile devices</li>
   >     </ul>
   >   </blockquote>
   > </details>
