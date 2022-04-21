@@ -1354,6 +1354,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Taking a look at the saved model format</li>
   >       <li>First primer on running models on mobile devices</li>
+  >       <li>Assignment: Train Your Own Model and Convert It to TFLite</li>
   >     </ul>
   >   </blockquote>
   > </details>
