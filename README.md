@@ -1379,6 +1379,11 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>Optional Exercise: Rock Paper Scissors for Android</li>
   >     </ul>
   >   </blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>TensorFlow Lite in iOS with Swift</li>
+  >     </ul>
+  >   </blockquote>
   > </details>
 
 </details>
