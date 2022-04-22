@@ -1383,6 +1383,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>TensorFlow Lite in iOS with Swift</li>
   >       <li>Classification and detection</li>
+  >       <li>Optional Exercise - Rock, Paper, Scissors on iOS</li>
   >     </ul>
   >   </blockquote>
   > </details>
