@@ -1392,6 +1392,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>TensorFlow Lite in Raspberry Pi</li>
   >       <li>TensorFlow Lite in Microcontrollers</li>
+  >       <li>Optional Exercise - Rock Paper Scissors on Raspberry Pi</li>
   >     </ul>
   >   </blockquote>
   > </details>
