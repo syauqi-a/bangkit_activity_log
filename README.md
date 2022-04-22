@@ -1365,4 +1365,37 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>22<sup>nd</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Device-based Models with TensorFlow Lite" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 2 module:
+  >     <ul>
+  >       <li>Classifying camera images</li>
+  >       <li>Object detection</li>
+  >       <li>Optional Exercise: Rock Paper Scissors for Android</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 3 module:
+  >     <ul>
+  >       <li>TensorFlow Lite in iOS with Swift</li>
+  >       <li>Classification and detection</li>
+  >       <li>Optional Exercise - Rock, Paper, Scissors on iOS</li>
+  >     </ul>
+  >   </blockquote>
+  >   <blockquote>
+  >     Week 4 module:
+  >     <ul>
+  >       <li>TensorFlow Lite in Raspberry Pi</li>
+  >       <li>TensorFlow Lite in Microcontrollers</li>
+  >       <li>Optional Exercise - Rock Paper Scissors on Raspberry Pi</li>
+  >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/W845N743S89P"><i>Course certificate "Device-based Models with TensorFlow Lite" offered by DeepLearning.AI (Coursera)</i></a>
+  >   </blockquote>
+  > </details>
+
 </details>
