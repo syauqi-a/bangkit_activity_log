@@ -1394,6 +1394,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >       <li>TensorFlow Lite in Microcontrollers</li>
   >       <li>Optional Exercise - Rock Paper Scissors on Raspberry Pi</li>
   >     </ul>
+  >     <a href="https://www.coursera.org/account/accomplishments/certificate/W845N743S89P"><i>Course certificate "Device-based Models with TensorFlow Lite" offered by DeepLearning.AI (Coursera)</i></a>
   >   </blockquote>
   > </details>
 
