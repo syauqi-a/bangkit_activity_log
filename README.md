@@ -1376,6 +1376,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     <ul>
   >       <li>Classifying camera images</li>
   >       <li>Object detection</li>
+  >       <li>Optional Exercise: Rock Paper Scissors for Android</li>
   >     </ul>
   >   </blockquote>
   > </details>
