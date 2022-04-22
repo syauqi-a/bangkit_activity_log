@@ -1391,6 +1391,7 @@ This repo contains my activities while studying at Bangkit 2022.
   >     Week 4 module:
   >     <ul>
   >       <li>TensorFlow Lite in Raspberry Pi</li>
+  >       <li>TensorFlow Lite in Microcontrollers</li>
   >     </ul>
   >   </blockquote>
   > </details>
