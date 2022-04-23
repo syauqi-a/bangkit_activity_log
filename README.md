@@ -1398,4 +1398,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   </blockquote>
   > </details>
 
+  > <h4>23<sup>rd</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     ILT: Tensorflow Data & Deployment
+  >   </summary>
+  >   Instructor: Nuurshadieq
+  > </details>
+  > <details>
+  >   <summary>
+  >     Attend the Weekly Consultation 9
+  >   </summary>
+  >   Lead by Stefanie Chandra
+  > </details>
+
 </details>
