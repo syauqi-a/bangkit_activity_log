@@ -1412,4 +1412,18 @@ This repo contains my activities while studying at Bangkit 2022.
   >   Lead by Stefanie Chandra
   > </details>
 
+  > <h4>25<sup>th</sup> Apr</h4>
+  > <details>
+  >   <summary>
+  >     SPS: "Data Pipelines with TensorFlow Data Services" offered by DeepLearning.AI (Coursera)
+  >   </summary>
+  >   <br/>
+  >   <blockquote>
+  >     Week 1 module:
+  >     <ul>
+  >       <li>Data Pipelines with TensorFlow Data Services</li>
+  >     </ul>
+  >   </blockquote>
+  > </details>
+
 </details>
